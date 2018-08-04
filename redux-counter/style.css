@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #383737;
+}
+
+#app {
+    width: 400px;
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-60%, -30%);
+}
+
+.count-wrapper {
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ffff;
+    text-align: center;
+    transform: translateX(-10%);
+}
+#btn-wrapper {
+    width: 100%;
+    margin-top: 1.4rem;
+    height: 100%;
+    
+}
+
+button {
+    color: #ffff;
+    border: 2px solid none;
+    width: 30%;
+    height: 20%;
+    padding: 20px 30px;
+    margin: 5%;
+    background-color: rgb(211, 35, 73);
+    text-align: center;
+    box-shadow: rgba(30, 22, 54, 0.4) 0 0px 0px 2px inset;
+    border-radius: 3px;
+}
+button:hover {
+    cursor: pointer;
+}
