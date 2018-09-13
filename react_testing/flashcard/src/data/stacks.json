@@ -1,0 +1,99 @@
+[
+    {
+    "title": "지역명",
+    "id": 0,
+    "cards": [
+    {
+    "id": 0,
+    "prompt": "경기도의 도청이 있는 곳은?",
+    "answer": "수원"
+    },
+    {
+    "id": 1,
+    "prompt": "미국의 수도",
+    "answer": "워싱턴"
+    },
+    {
+    "id": 2,
+    "prompt": "대한 민국의 수도",
+    "answer": "서울"
+    },
+    {
+    "id": 3,
+    "prompt": "일본의 수도",
+    "answer": "도쿄"
+    },
+    {
+    "id": 4,
+    "prompt": "한국에서 두번째로 큰 도시",
+    "answer": "부산"
+    },
+    {
+    "id": 5,
+    "prompt": "미국의 도박의 제1의 환락 도박의 도시",
+    "answer": "라스베가스"
+    },
+    {
+    "id": 6,
+    "prompt": "영국의 수도",
+    "answer": "런던"
+    },
+    {
+    "id": 7,
+    "prompt": "중국의 경제 특구, 가장 큰 도시",
+    "answer": "상하이"
+    },
+    {
+    "id": 8,
+    "prompt": "영화 할리우드로 유명한 곳",
+    "answer": "로스엔젤레스"
+    },
+    {
+    "id": 9,
+    "prompt": "전라도 민주항쟁 지역",
+    "answer": "광주"
+    }
+    ]
+    },
+    {
+    "title": "Computer Science Basics",
+    "id": 1,
+    "cards": [
+    {
+    "id": 0,
+    "prompt": "A single line of code",
+    "answer": "statement"
+    },
+    {
+    "id": 1,
+    "prompt": "A word reserved to store data",
+    "answer": "variable"
+    },
+    {
+    "id": 2,
+    "prompt": "A storage component to serve requests faster",
+    "answer": "cache"
+    },
+    {
+    "id": 3,
+    "prompt": "Where data is stored",
+    "answer": "memory"
+    },
+    {
+    "id": 4,
+    "prompt": "8 bits =",
+    "answer": "1 byte"
+    },
+    {
+    "id": 5,
+    "prompt": "A way to repeat code a certain number of times",
+    "answer": "loop"
+    },
+    {
+    "id": 6,
+    "prompt": "UI stands for",
+    "answer": "User Interface"
+    }
+    ]
+    }
+    ]

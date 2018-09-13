@@ -1,0 +1,55 @@
+body {
+    padding: 5%;
+    text-align: center;
+
+}
+.link-home {
+    position: absolute;
+    left: 30px;
+    top: 30px;
+} 
+
+.card {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.card-prompt {
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+
+.card-answer {
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+}
+
+.text-reveal {
+    position: relative;
+    visibility: visible;
+    animation: textEffect 0.5s ease-in;
+}
+
+.text-hidden {
+    position: relative;
+    visibility: hidden;
+}
+
+@keyframes textEffect {
+    0% {
+        opacity: 0;
+        top: -100px;
+    }
+    100% {
+        opacity: 100;
+        top: 0px;
+        /* right: -5px; */
+    }
+}
+
